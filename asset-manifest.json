@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React--PokemonBrowser/static/css/main.a1a1a286.chunk.css",
+    "main.js": "/React--PokemonBrowser/static/js/main.5fd1cbb1.chunk.js",
+    "main.js.map": "/React--PokemonBrowser/static/js/main.5fd1cbb1.chunk.js.map",
+    "runtime-main.js": "/React--PokemonBrowser/static/js/runtime-main.6d177672.js",
+    "runtime-main.js.map": "/React--PokemonBrowser/static/js/runtime-main.6d177672.js.map",
+    "static/js/2.4667a74f.chunk.js": "/React--PokemonBrowser/static/js/2.4667a74f.chunk.js",
+    "static/js/2.4667a74f.chunk.js.map": "/React--PokemonBrowser/static/js/2.4667a74f.chunk.js.map",
+    "static/js/3.4e32e705.chunk.js": "/React--PokemonBrowser/static/js/3.4e32e705.chunk.js",
+    "static/js/3.4e32e705.chunk.js.map": "/React--PokemonBrowser/static/js/3.4e32e705.chunk.js.map",
+    "index.html": "/React--PokemonBrowser/index.html",
+    "static/css/main.a1a1a286.chunk.css.map": "/React--PokemonBrowser/static/css/main.a1a1a286.chunk.css.map",
+    "static/js/2.4667a74f.chunk.js.LICENSE.txt": "/React--PokemonBrowser/static/js/2.4667a74f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d177672.js",
+    "static/js/2.4667a74f.chunk.js",
+    "static/css/main.a1a1a286.chunk.css",
+    "static/js/main.5fd1cbb1.chunk.js"
+  ]
+}
